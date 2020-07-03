@@ -1,0 +1,8 @@
+C:\Users\318155\source\repos\EmployeeAPI\bin\Debug\appsettings.Development.json
+C:\Users\318155\source\repos\EmployeeAPI\bin\Debug\appsettings.json
+C:\Users\318155\source\repos\EmployeeAPI\bin\Debug\Properties\launchSettings.json
+C:\Users\318155\source\repos\EmployeeAPI\bin\Debug\EmployeeAPI.dll
+C:\Users\318155\source\repos\EmployeeAPI\bin\Debug\EmployeeAPI.pdb
+C:\Users\318155\source\repos\EmployeeAPI\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\318155\source\repos\EmployeeAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\318155\source\repos\EmployeeAPI\obj\Debug\docker-compose.dcproj.CopyComplete
